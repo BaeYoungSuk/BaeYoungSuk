@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%2C%20I%27m%20Bae%Young%Suk&animation=fadeIn&height=300&fontSize=70&fontAlignY=45)
 
-<p align="center">
+<h3 align="center">
 💻Tech Stack💻
-</p>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/Let%27s%20Encrypt%20-232F3E?style=flat-square&logo=Let%27s%20Encrypt&logoColor=white"/></a>&nbsp 
 
 </p>
+
+<!-- ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=BaeYoungSuk&show_icons=true)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeYoungSuk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact) -->
 
 <!--
 **BaeYoungSuk/BaeYoungSuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
