@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%2C%20I%27m%20Bae%Young%Suk&animation=fadeIn&height=300&fontSize=70&fontAlignY=45)
 
 
 <!--
